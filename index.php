@@ -8,7 +8,7 @@
  <input class="contact-submit" type="submit" value="検索" />
  </form>
  <?php
- echo '<p>こんにちは世界</p>';
+ echo '<p>Hello World</p>';
  echo var_dump(isset($_POST["name"]));
  ?>
 </body>
